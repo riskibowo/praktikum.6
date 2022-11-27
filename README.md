@@ -59,7 +59,7 @@ if List.lower() == 't':
         Data[nama] = nim, tugas, uts, uas, akhir
 ```
 - Disini apabila kita menginputkan 't' maka kita akan diminta untuk menginputkan beberapa data. Data yang kita inputkan akan masuk ke dictionary 'Data' yang telah dibuat tadi dengan data 'nama' sebagai keys dan sisanya sebagai values.
-Gambar1
+![Gambar1](gambar/3.png)
 - Membuat syntax untuk mengubah data.
 ```
 elif List.lower() == 'u':
