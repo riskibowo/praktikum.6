@@ -30,7 +30,7 @@ print(telp.values())
 ```
 print(telp.items())
 ```
-![Gambar1](ambar/2.png)
+![gambar1](gambar/2.png)
 
 - Hapus kontak Dina.
 ```
